@@ -1,1 +1,7 @@
-
+torch
+torchaudio
+pandas
+jiwer
+openai-whisper
+wvmos
+ffmpeg-python
